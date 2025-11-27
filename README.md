@@ -1,16 +1,13 @@
-# React + Vite
+# Приложение мини-галлерея
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Описание
+Мини приложение галлереи с кнопками управления перехода между фотографиями (следующее фото, предыдущее фото)
 
-Currently, two official plugins are available:
+## Основные возможности
+Вывод одной фотографии на экрас с возможностью перехода на следующее и прерыдущее фото.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Выводы по выполненной работы 
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Скриншоты работы программы
+<img src="/public/photo/House.png"></img>
