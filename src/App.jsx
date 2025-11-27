@@ -3,23 +3,28 @@ import "./App.css";
 import Image from "./components/Image.jsx";
 import ControlBtnImage from "./components/ControlBtnImage.jsx";
 
+import WinterLandscape from "../public/photo/WinterLandscape.png"
+import SummerLandscape from "../public/photo/SummerLandscape.png"
+import SummerSea from "../public/photo/SummerSea.png"
+import House from "../public/photo/House.png"
+
 function App() {
   const photos = [
     {
       title: "Зимний пейзаж",
-      src: "../../public/photo/WinterLandscape.png",
+      src: WinterLandscape,
     },
     {
       title: "Летний пейзаж",
-      src: "../../public/photo/SummerLandscape.png",
+      src: SummerLandscape,
     },
     {
       title: "Летнее море",
-      src: "../../public/photo/SummerSea.png",
+      src: SummerSea,
     },
     {
       title: "Дом",
-      src: "../../public/photo/House.png",
+      src: House,
     },
   ];
 
