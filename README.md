@@ -10,4 +10,10 @@
 
 
 ### Скриншоты работы программы
-<img src="/public/photo/House.png"></img>
+Пример работы перехода на следующее фото: 
+<img src="/public/screenshot/1.png"></img>
+<img src="/public/screenshot/2.png"></img>
+
+Пример работы перехода на передыдущее фото: 
+<img src="/public/screenshot/3.png"></img>
+<img src="/public/screenshot/4.png"></img>
